@@ -1,1 +1,2 @@
 print("MJ")
+print("Forever")
